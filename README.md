@@ -11,9 +11,6 @@ healthy and covid cases using CXR images.
 ## 📖Dataset Link
 https://drive.google.com/file/d/1unlFh65lUUUXtknOvlhIZlagFrfFXh6M/view?usp=sharing
 
-
-
-
 ## 🛠Libraries Required
 
 | Library   | Version  |
@@ -26,17 +23,24 @@ https://drive.google.com/file/d/1unlFh65lUUUXtknOvlhIZlagFrfFXh6M/view?usp=shari
 | `Scikit-Image` | ` 0.19.2` |
 | `Tensorflow` | `2.8.0` |
 
-
-
-
-
 ## 📸Outputs
+* Normal person CXR image (right) and Covid infected person CXR image (left)
+![App Screenshot](imgs/normal_vs_covid.png)
+* Loss Graph     
+![App Screenshot](imgs/loss.png)
+* Accuracy Graph       
+![App Screenshot](imgs/accuracy.png)
+* Predicted VS True      
+![App Screenshot](imgs/Predicted_vs_True.png)
+* Classification Report         
+![App Screenshot](imgs/classification_report.png)
+* Confusion Matrix          
+![App Screenshot](imgs/confusion_matrix.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## 🔗 Social
-You can connect with me here 😀
+You can connect with me here 😀    
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-pradhan-052353221/)
 
 
