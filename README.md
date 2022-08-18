@@ -8,6 +8,9 @@ identification process. Therefore, our objective is to develop an
 automated CAD system for the detection of COVID-19 samples from 
 healthy and covid cases using CXR images.
 
+## 📖Dataset Link
+https://drive.google.com/file/d/1unlFh65lUUUXtknOvlhIZlagFrfFXh6M/view?usp=sharing
+
 
 
 
